@@ -28,6 +28,7 @@ jupyter notebook
 
 ## Pipeline
 ![Data pipeline](images/datapipeline.png)
+
 For more results, refer to the paper at https://ieeexplore.ieee.org/document/9225530.
 
 ## Citation
